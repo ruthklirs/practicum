@@ -1,0 +1,28 @@
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll
+E:\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.deps.json
+E:\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.runtimeconfig.json
+E:\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.dll
+E:\serverProject\3_Repository\bin\Debug\net6.0\3_Repository.pdb
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.csproj.AssemblyReference.cache
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfoInputs.cache
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.AssemblyInfo.cs
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.csproj.CoreCompileInputs.cache
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.dll
+E:\serverProject\3_Repository\obj\Debug\net6.0\refint\3_Repository.dll
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.pdb
+E:\serverProject\3_Repository\obj\Debug\net6.0\3_Repository.genruntimeconfig.cache
+E:\serverProject\3_Repository\obj\Debug\net6.0\ref\3_Repository.dll

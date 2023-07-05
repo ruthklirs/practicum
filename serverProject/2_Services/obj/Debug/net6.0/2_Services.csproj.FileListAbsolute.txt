@@ -1,0 +1,34 @@
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\bin\Debug\net6.0\2_Services.deps.json
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\bin\Debug\net6.0\2_Services.runtimeconfig.json
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\bin\Debug\net6.0\2_Services.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\bin\Debug\net6.0\2_Services.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\bin\Debug\net6.0\3_Repository.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\bin\Debug\net6.0\3_Repository.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.csproj.AssemblyReference.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.AssemblyInfoInputs.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.AssemblyInfo.cs
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.csproj.CoreCompileInputs.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.csproj.CopyComplete
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\refint\2_Services.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\2_Services.genruntimeconfig.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\2_Services\obj\Debug\net6.0\ref\2_Services.dll
+E:\serverProject\2_Services\bin\Debug\net6.0\2_Services.deps.json
+E:\serverProject\2_Services\bin\Debug\net6.0\2_Services.runtimeconfig.json
+E:\serverProject\2_Services\bin\Debug\net6.0\2_Services.dll
+E:\serverProject\2_Services\bin\Debug\net6.0\2_Services.pdb
+E:\serverProject\2_Services\bin\Debug\net6.0\3_Repository.dll
+E:\serverProject\2_Services\bin\Debug\net6.0\3_Repository.pdb
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.csproj.AssemblyReference.cache
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.AssemblyInfoInputs.cache
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.AssemblyInfo.cs
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.csproj.CoreCompileInputs.cache
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.csproj.CopyComplete
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.dll
+E:\serverProject\2_Services\obj\Debug\net6.0\refint\2_Services.dll
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.pdb
+E:\serverProject\2_Services\obj\Debug\net6.0\2_Services.genruntimeconfig.cache
+E:\serverProject\2_Services\obj\Debug\net6.0\ref\2_Services.dll

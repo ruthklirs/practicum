@@ -1,0 +1,49 @@
+﻿using _2_Services.Interfaces;
+using _2_Services.Models;
+using _2_Services.ServiceClasses;
+using _3_Repository;
+using _3_Repository.Entities;
+using _3_Repository.Interfaces;
+using _3_Repository.Repositories;
+using AutoMapper;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _2_Services
+{
+    public static class Extensions
+    {
+         public static IServiceCollection AddServicesInjections (this IServiceCollection services)
+        {
+            services.AddRepositoriesInjections();
+            services.AddScoped<IPersonService, PersonService>();
+            services.AddScoped<IChildService, ChildService>();
+               services.AddScoped <IDataSource, SQLDataSource>();
+            services.AddAutoMapper(typeof(Mapping));
+            return services;
+        }
+
+    /*    public static void AddRepoDependencies(this IServiceCollection services)
+        {
+            services.AddScoped<IPersonRepository, PersonRepository>();
+            services.AddScoped<IChildRepository, ChildRepository>();
+            MapperConfiguration config = new MapperConfiguration(
+            conf => conf.CreateMap<Person, PersonModel>().ReverseMap());
+            IMapper mapper = config.CreateMapper();
+
+               services.AddSingleton(mapper);
+
+              services.AddScoped <IDataSource, SQLDataSource>();
+
+               services.AddSingleton< IHttpContextAccessor, HttpContextAccessor>();
+
+        }*/
+       
+    }
+}

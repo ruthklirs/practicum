@@ -1,0 +1,28 @@
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\bin\Debug\net6.0\1_UI.deps.json
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\bin\Debug\net6.0\1_UI.runtimeconfig.json
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\bin\Debug\net6.0\1_UI.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\bin\Debug\net6.0\1_UI.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.csproj.AssemblyReference.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.AssemblyInfoInputs.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.AssemblyInfo.cs
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.csproj.CoreCompileInputs.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\refint\1_UI.dll
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.pdb
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\1_UI.genruntimeconfig.cache
+Y:\Groups\4\קלירס רות\דוטנט\serverProject\1_UI\obj\Debug\net6.0\ref\1_UI.dll
+E:\serverProject\1_UI\bin\Debug\net6.0\1_UI.deps.json
+E:\serverProject\1_UI\bin\Debug\net6.0\1_UI.runtimeconfig.json
+E:\serverProject\1_UI\bin\Debug\net6.0\1_UI.dll
+E:\serverProject\1_UI\bin\Debug\net6.0\1_UI.pdb
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.csproj.AssemblyReference.cache
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.AssemblyInfoInputs.cache
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.AssemblyInfo.cs
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.csproj.CoreCompileInputs.cache
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.dll
+E:\serverProject\1_UI\obj\Debug\net6.0\refint\1_UI.dll
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.pdb
+E:\serverProject\1_UI\obj\Debug\net6.0\1_UI.genruntimeconfig.cache
+E:\serverProject\1_UI\obj\Debug\net6.0\ref\1_UI.dll
